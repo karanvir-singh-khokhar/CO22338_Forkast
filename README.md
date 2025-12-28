@@ -1,4 +1,4 @@
-# Restaurant Review Analyzer 🍽️
+# Forkast - Restaurant Review Analyzer 🍽️
 
 ## Project Description
 A real-time NLP application that analyzes restaurant reviews using the Yelp Open Dataset. The system provides comprehensive insights including sentiment analysis, aspect-based feedback, cuisine classification, and entity recognition.
