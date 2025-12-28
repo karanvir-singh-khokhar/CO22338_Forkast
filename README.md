@@ -98,4 +98,4 @@ NLP Project Section B/
 - Recommendation system based on user preferences
 - Fake review detection
 
-~ Web App Link: 
+~ Web App Link: https://co22338-forkast.streamlit.app/
